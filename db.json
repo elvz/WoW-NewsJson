@@ -1,602 +1,604 @@
-[
- {
-  "id": 48,
-  "title": "Weekly Bonus Event: Warlords of Draenor Timewalking",
-  "body": "Travel back in time to the Warlords of Draenor dungeons in this week’s Bonus Event. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22994613/weekly-bonus-event-warlords-of-draenor-timewalking"
- },
- {
-  "id": 51,
-  "title": "WoW® Classic City Tour: Ironforge",
-  "body": "Finding trainers and supplies can take a little extra time to adjust to in WoW® Classic, but we’ve got a handy guide to help you get around the dwarf capital city of Ironforge. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23149294/wow-classic-city-tour-ironforge"
- },
- {
-  "id": 54,
-  "title": "The Next Battle for Azeroth Content Update is Now Live!",
-  "body": "The next World of Warcraft®: Battle for Azeroth content update is now live. Learn what’s ahead. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23156365/the-next-battle-for-azeroth-content-update-is-now-live"
- },
- {
-  "id": 57,
-  "title": "Hotfixes: September 20, 2019",
-  "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft: Battle For Azeroth. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23036677/hotfixes-september-20-2019"
- },
- {
-  "id": 60,
-  "title": "WoW® Classic City Tour: Orgrimmar",
-  "body": "Finding trainers and supplies can take a little extra time to adjust to in WoW® Classic, but we’ve got a handy guide to help you get around the Horde capital city of Orgrimmar.\n",
-  "href": "https://worldofwarcraft.com/en-gb/news/23156369/wow-classic-city-tour-orgrimmar"
- },
- {
-  "id": 63,
-  "title": "Brewfest Kegs Are Tapped and Festivities are in Full Swing! September 20–October 6",
-  "body": "Get ready to crack open a cold one with friends new and old during our revamped Brewfest! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23151441/brewfest-kegs-are-tapped-and-festivities-are-in-full-swing-september-20-october-6"
- },
- {
-  "id": 66,
-  "title": "AWC Summer Finals: Last Chance for BlizzCon 2019",
-  "body": "The four very best teams from North America and Europe battle for the last two remaining spots for the AWC Global Finals at BlizzCon. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23156367/awc-summer-finals-last-chance-for-blizzcon-2019"
- },
- {
-  "id": 69,
-  "title": "WoW® Classic: Getting around Azeroth",
-  "body": "There are various modes of mass transit available to those looking to get around Azeroth. Learn more about each of these and where they are in our latest look into WoW® Classic. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23156366/wow-classic-getting-around-azeroth"
- },
- {
-  "id": 72,
-  "title": "Stormsong Valley’s Newest Hive is the Bee’s Knees",
-  "body": "Discover what beekeepers are abuzz about in Stormsong Valley. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23151439/stormsong-valley-s-newest-hive-is-the-bee-s-knees"
- },
- {
-  "id": 75,
-  "title": "Jump Aboard the Pirate’s Day Celebration– September 19!",
-  "body": "Avast ye landlubbers! It’s time to hoist sail and make way to Booty Bay for Pirate’s Day! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22483128/jump-aboard-the-pirate-s-day-celebration-september-19"
- },
- {
-  "id": 78,
-  "title": "PvP Brawls Schedule 2019",
-  "body": "Experience some of your favorite player-vs-player Battlegrounds with a twist during PvP Brawls! Read on to learn more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/20564524/pvp-brawls-schedule-2019"
- },
- {
-  "id": 81,
-  "title": "Own a Piece of World of Warcraft History and Help Support Pencils of Promise *Sold Out!",
-  "body": "Commemorate 15 years of epic adventures in Azeroth by owning a piece of World of Warcraft history—and feel good doing it. We’ve preserved a number of retired HP server blades that once hosted many World of Warcraft realms, and you can purchase one Tuesday, September 10 at 2:00 p.m. PDT and Thursday, September 12 at 7:00 a.m. PDT on the Blizzard Gear Store Europe. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23140711/own-a-piece-of-world-of-warcraft-history-and-help-support-pencils-of-promise-sold-out"
- },
- {
-  "id": 84,
-  "title": "8.2.5 Content Update Notes",
-  "body": "The official update notes for the new content update are here. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23127427/8-2-5-content-update-notes"
- },
- {
-  "id": 87,
-  "title": "WoW® Classic City Tour: Stormwind",
-  "body": "Navigating the capital cities in of Azeroth is a different affair in WoW Classic. Finding the trainers and supplies you need can take a little extra time to adjust to, so we’ve put together a handy guide to point you in the right direction. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23149291/wow-classic-city-tour-stormwind"
- },
- {
-  "id": 90,
-  "title": "Party Sync Preview",
-  "body": "The new Party Sync feature makes it easier than ever for friends to party up and quest together. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23151436/party-sync-preview"
- },
- {
-  "id": 93,
-  "title": "These Million Gold Looks for Goblins and Worgen are Something to Howl About",
-  "body": "Get ready to shapeshift your look with new worgen and goblin models and animations—coming in the 8.2.5 content update. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23127428/these-million-gold-looks-for-goblins-and-worgen-are-something-to-howl-about"
- },
- {
-  "id": 96,
-  "title": "Recruit A Friend Returns Soon!",
-  "body": "Bring your friends to Azeroth and earn special rewards. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23127426/recruit-a-friend-returns-soon"
- },
- {
-  "id": 99,
-  "title": "Weekly Bonus Event: Mists of Pandaria Timewalking",
-  "body": "Travel back in time to the Mists of Pandaria dungeons in this week’s Bonus Event. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/20564529/weekly-bonus-event-mists-of-pandaria-timewalking"
- },
- {
-  "id": 102,
-  "title": "Trial of Style August 31– September 4: The Stage Is Yours",
-  "body": "Styles from Kul Tiras and Zandalar are all the rage, but is your transmog the flavor of the moment? Or is it a timeless couture classic? You’ll be able to find out during the Trial of Style, taking place August 31 –September 4! Prepare to strut your stuff in a head-to-head fashion face-off and see who can put it all together—for the win! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22327256/trial-of-style-august-31-september-4-the-stage-is-yours"
- },
- {
-  "id": 105,
-  "title": "World of Warcraft Classic Is Now Live!",
-  "body": "The floodgates are now open, and WoW Classic is live! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23099309/world-of-warcraft-classic-is-now-live"
- },
- {
-  "id": 108,
-  "title": "Kickoff to WoW® Classic with HyperX—Watch the VoD",
-  "body": "Kick off the launch of WoW Classic with HyperX in a live stream featuring interviews, discussions, and more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23108404/kickoff-to-wow-classic-with-hyperx-watch-the-vod"
- },
- {
-  "id": 111,
-  "title": "WoW Classic Name Reservations Now Open! *Update 30/8",
-  "body": "Take your first step toward preparing for WoW Classic by reserving your name before the game goes live in Europe on August 27 at 00:01 CEST! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23086691/wow-classic-name-reservations-now-open-update-30-8"
- },
- {
-  "id": 114,
-  "title": "World of Warcraft Classic Community Resources",
-  "body": "World of Warcraft Classic provides players the opportunity to delve into a faithful recreation of the original WoW experience, but no one has to go it alone. We’ve gathered together some of the best resources from around the community to help. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23090143/world-of-warcraft-classic-community-resources"
- },
- {
-  "id": 117,
-  "title": "Watch Now! WoW Classic with Creators",
-  "body": "Take a stroll down memory lane with some of the original World of Warcraft designers in our new video. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23090141/watch-now-wow-classic-with-creators"
- },
- {
-  "id": 120,
-  "title": "Weekly Bonus Event: Battle for Azeroth Dungeons",
-  "body": "This week’s Bonus Event is underway, and we’re setting our sights on Battle for Azeroth Dungeons. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22483125/weekly-bonus-event-battle-for-azeroth-dungeons"
- },
- {
-  "id": 123,
-  "title": "World of Warcraft Classic FAQ: What You Need to Know",
-  "body": "World of Warcraft Classic launches August 27. To make sure you’re prepared, we’ve pulled together some information to help you get started on your journey through Azeroth. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23090136/world-of-warcraft-classic-faq-what-you-need-to-know"
- },
- {
-  "id": 126,
-  "title": "Micro-Holidays: 2019 Calendar",
-  "body": "Micro-holidays provide a variety of in-game experiences simply for the fun of taking part in them. Read on to learn about more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/20407403/micro-holidays-2019-calendar"
- },
- {
-  "id": 129,
-  "title": "The Eternal Palace Raid: Raid Finder Wing 3 Now Available!",
-  "body": "Face Queen Azshara’s most devoted champions in an epic new raid—The Eternal Palace. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021200/the-eternal-palace-raid-raid-finder-wing-3-now-available"
- },
- {
-  "id": 132,
-  "title": "Viewer’s Guide: Mythic Dungeon International Summer Season",
-  "body": "Dungeon Racing is back with the Summer Season of the MDI! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23090135/viewer-s-guide-mythic-dungeon-international-summer-season"
- },
- {
-  "id": 135,
-  "title": "WoW Classic Primer for New Players",
-  "body": "If you’ve never played the original World of Warcraft (or you just want a refresher on the WoW Classic experience, we’ve got you covered with this handy guide on how to get in and get going on your epic adventure. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23090134/wow-classic-primer-for-new-players"
- },
- {
-  "id": 138,
-  "title": "Commemorate 15 Years of World of Warcraft With New Alabaster Mounts!",
-  "body": "Take to the skies of Azeroth in grand style with a pair of majestic alabaster mounts—now available on the Blizzard Shop. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23086690/commemorate-15-years-of-world-of-warcraft-with-new-alabaster-mounts"
- },
- {
-  "id": 141,
-  "title": "Wrath of the Lich King Timewalking Returns — July 16-23",
-  "body": "This week’s Bonus Event is underway and we’re headed to Northrend to do some Timewalking. Are you ready to step into Ulduar? Read on to learn more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/21510319/wrath-of-the-lich-king-timewalking-returns-july-16-23"
- },
- {
-  "id": 144,
-  "title": "The Eternal Palace Race to World First Begins This Week!",
-  "body": "The race to see who can be the first to defeat Azshara in her Eternal Palace begins this week and we’ve got the scoop on where you can watch all the action live! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23055938/the-eternal-palace-race-to-world-first-begins-this-week"
- },
- {
-  "id": 147,
-  "title": "Battle for Azeroth Mythic Keystone Dungeon and PvP Season 3 Has Begun!",
-  "body": "Battle for Azeroth Season 3 opens up new challenges with the opening of Mythic Operation: Mechagon, a new affix in Mythic Keystone Dungeons, and more PvP action. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23055935/battle-for-azeroth-mythic-keystone-dungeon-and-pvp-season-3-has-begun"
- },
- {
-  "id": 150,
-  "title": "Rise of Azshara Content Update Notes: Season 3",
-  "body": "The official update notes for the July 10, 2019 content update to Rise of Azshara are here. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23050291/rise-of-azshara-content-update-notes-season-3"
- },
- {
-  "id": 153,
-  "title": "The Mythic Dungeon International Summer Season Starts Soon!",
-  "body": "Test your dungeon-running skills for your chance to compete. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23051820/the-mythic-dungeon-international-summer-season-starts-soon"
- },
- {
-  "id": 156,
-  "title": "Get Murgle the Red Murloc Plush and Mug July 9!",
-  "body": "Celebrate the Rise of Azshara content update by snuggling up with Murgle the red baby murloc plush and sipping from a matching mug—both available on July 9 on the Blizzard Gear Store worldwide or at the Japan Expo in Paris July 4-7! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23045374/get-murgle-the-red-murloc-plush-and-mug-july-9"
- },
- {
-  "id": 159,
-  "title": "Purchase a 6-Month Subscription and Get a New Mount!",
-  "body": "Add some magic to your mount collection with the brand-new Sylverian Dreamer, available now for purchase in-game and from the Blizzard Shop. For a limited time, you can also get this dream-born dragon with your purchase of a 6-Month World of Warcraft subscription. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23035753/purchase-a-6-month-subscription-and-get-a-new-mount"
- },
- {
-  "id": 162,
-  "title": "Weekly Bonus Event: Battlegrounds",
-  "body": "This week’s Bonus Event is underway and we’re headed to the grounds of battle. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/20324475/weekly-bonus-event-battlegrounds"
- },
- {
-  "id": 165,
-  "title": "Prepare to Bow to the Queen of Tides in Rise of Azshara - Now Live!",
-  "body": "Rise of Azshara is now live Watch our latest Survival Guide and dive into World of Warcraft’s next major content update. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23014432/prepare-to-bow-to-the-queen-of-tides-in-rise-of-azshara-now-live"
- },
- {
-  "id": 168,
-  "title": "Rise of Azshara Preview: Heart of Azeroth Updates",
-  "body": "In Rise of Azshara, the Heart of Azeroth will get a boost with the help of MOTHER, and players can seek out new ways to customize their powers through Essences. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22956187/rise-of-azshara-preview-heart-of-azeroth-updates"
- },
- {
-  "id": 171,
-  "title": "Save on World of Warcraft® and Digital Deluxe Items",
-  "body": "Celebrate the arrival of the latest content update, Rise of Azshara, with savings on the World of Warcraft® Complete Collection, Battle for Azeroth™, and Digital Deluxe items from multiple expansions. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23035751/save-on-world-of-warcraft-and-digital-deluxe-items"
- },
- {
-  "id": 174,
-  "title": "Take to the Skies: The Battle for Azeroth Pathfinder Guide",
-  "body": "Soar over land and sea on your new Wonderwing 2.0 when you complete Battle for Azeroth Pathfinder! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23035750/take-to-the-skies-the-battle-for-azeroth-pathfinder-guide"
- },
- {
-  "id": 177,
-  "title": "New World of Warcraft: Battle for Azeroth Comic – “Mechagon”",
-  "body": "Among the gnomes, there are few legends more powerful than that of Mechagon—a land of untold mechanical marvels. Daring to prove that this fabled place is more than a myth, explorer Kervo must make a daring gambit to find it . . . and maybe even uncover the secrets of mortality before his own time runs out. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021205/new-world-of-warcraft-battle-for-azeroth-comic-mechagon"
- },
- {
-  "id": 180,
-  "title": "The Flames of the Midsummer Fire Festival Burn Bright! June 21–July 5",
-  "body": "Don your fire resist gear and celebrate the Midsummer Fire Festival! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021203/the-flames-of-the-midsummer-fire-festival-burn-bright-june-21-july-5"
- },
- {
-  "id": 183,
-  "title": "Preview: Nazjatar Visitor’s Guide",
-  "body": "After a high-seas ambush, the Alliance and Horde find themselves facing a familiar and deadly foe as Nazjatar, capital city of the naga, emerges from the depths. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23034748/preview-nazjatar-visitor-s-guide"
- },
- {
-  "id": 186,
-  "title": "Rise of Azshara Content Update Notes",
-  "body": "The official update notes for content update to Rise of Azshara are here. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23014436/rise-of-azshara-content-update-notes"
- },
- {
-  "id": 189,
-  "title": "Preview: Mechagon Island Visitor’s Guide",
-  "body": "Mechagon Island, once believed to be a myth, has recently been discovered. The mechanical metropolis at the island’s heart runs off cutting-edge technology unlike anything seen before—but at what cost? ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021204/preview-mechagon-island-visitor-s-guide"
- },
- {
-  "id": 192,
-  "title": "Dive Deep Into Rise of Azshara - Arriving June 26!",
-  "body": "Rise of Azshara is nearly here! Learn more about the latest content update and prepare for the Queen of Tides’ grand reemergence June 26. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021202/dive-deep-into-rise-of-azshara-arriving-june-26"
- },
- {
-  "id": 195,
-  "title": "Saddle Up for Epic Adventures with Mount Equipment",
-  "body": "It’s not the destination, it’s the journey! There’s something magical about exploring new territory astride your most trusted steed, so we’re introducing Mount Equipment—a new system that empowers you to customize your favorite mounts to make them even more fun and convenient. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23034891/saddle-up-for-epic-adventures-with-mount-equipment"
- },
- {
-  "id": 198,
-  "title": "World of Warcraft 15-Year Anniversary Collector’s Edition Giveaway",
-  "body": "Don’t miss your chance to grab one of the last remaining World of Warcraft 15-Year Anniversary Collector’s Editions! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23018239/world-of-warcraft-15-year-anniversary-collector-s-edition-giveaway"
- },
- {
-  "id": 201,
-  "title": "Preview—New Pet Battle Dungeon: Stratholme",
-  "body": "Ready your best battle pets for a new challenge. We’re introducing a new pet battle dungeon in Rise of Azshara—Stratholme! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23019229/preview-new-pet-battle-dungeon-stratholme"
- },
- {
-  "id": 204,
-  "title": "Postcard from MDI Spring Finals: Championship Sunday",
-  "body": "Close calls and crumbling curses on the final day of the tournament. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23022453/postcard-from-mdi-spring-finals-championship-sunday"
- },
- {
-  "id": 207,
-  "title": "Hotfixes: June 10, 2019",
-  "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft: Battle For Azeroth. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933417/hotfixes-june-10-2019"
- },
- {
-  "id": 210,
-  "title": "AWC Summer Season: A Viewer’s Guide",
-  "body": "Tune in for six weeks of the world’s best PvP players fighting for glory starting June 12. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23022452/awc-summer-season-a-viewer-s-guide"
- },
- {
-  "id": 213,
-  "title": "Postcard from MDI Spring Finals: The Doctor Is In",
-  "body": "Despite falling to the lower bracket, DrJay of Abrakeydabra is proud of his team. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23022451/postcard-from-mdi-spring-finals-the-doctor-is-in"
- },
- {
-  "id": 216,
-  "title": "Postcard from the MDI Spring Finals: East meets West",
-  "body": "The teams have landed in Sydney and are preparing for the first day of competition. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23022450/postcard-from-the-mdi-spring-finals-east-meets-west"
- },
- {
-  "id": 219,
-  "title": "Many New Treasures Await in Rise of Azshara",
-  "body": "Rise of Azshara introduces a treasure trove of new mounts, pets, toys, and gear to earn and collect. We’ve rounded up a selection of what’s waiting to be discovered. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23021196/many-new-treasures-await-in-rise-of-azshara"
- },
- {
-  "id": 222,
-  "title": "BlizzCon® 2019 Commemorative Collectible – Presale Extended to June 19!",
-  "body": "We’ve extended the deadline to pre-purchase an Orc Grunt or Human Footman statue to June 19. Learn more about this limited run, and check out a new video that gives you a closer look at the statues. ",
-  "href": "https://worldofwarcraft.comhttps://blizzcon.com/en-gb/news/22965340"
- },
- {
-  "id": 225,
-  "title": "MDI Spring Finals Head Down Under",
-  "body": "Sydney will host the best dungeon-running teams in the world this weekend. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/23016004/mdi-spring-finals-head-down-under"
- },
- {
-  "id": 228,
-  "title": "Rise of Azshara Preview: Navigate the Perils of Nazjatar in New Benthic Gear",
-  "body": "In Rise of Azshara, we’re introducing a new type of gear that can be collected in Nazjatar—and can help you stand against the rising threat of Queen Azshara. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22994614/rise-of-azshara-preview-navigate-the-perils-of-nazjatar-in-new-benthic-gear"
- },
- {
-  "id": 231,
-  "title": "Rise Up and Stand Tall with New Tauren and Gnome Heritage Armor",
-  "body": "Rise up and stand tall with two new Heritage Armor sets—one for gnomes and one for tauren—coming in the Rise of Azshara content update. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22994612/rise-up-and-stand-tall-with-new-tauren-and-gnome-heritage-armor"
- },
- {
-  "id": 234,
-  "title": "Watch the New Rise of Azshara Cinematic: “Safe Haven”",
-  "body": "Where do you find safe haven in a world torn apart by war and strife? Varok Saurfang may just have the answer. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22937756/watch-the-new-rise-of-azshara-cinematic-safe-haven"
- },
- {
-  "id": 237,
-  "title": "Mark Your Calendars: WoW Classic Launch and Testing Schedule",
-  "body": "World of Warcraft Classic goes live worldwide August 27! Learn more about the launch and the upcoming test schedule. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22990080/mark-your-calendars-wow-classic-launch-and-testing-schedule"
- },
- {
-  "id": 240,
-  "title": "Get the World of Warcraft 15th Anniversary Collector’s Edition",
-  "body": "Commemorate 15 epic years of World of Warcraft with a special limited-edition collector’s set. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22990077/get-the-world-of-warcraft-15th-anniversary-collector-s-edition"
- },
- {
-  "id": 243,
-  "title": "Recruit-A-Friend Is Going on Hiatus",
-  "body": "The current Recruit-A-Friend program will be ending on June 11, 2019 while we work on building a new and improved program. Read on to learn more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22938871/recruit-a-friend-is-going-on-hiatus"
- },
- {
-  "id": 246,
-  "title": "Meet the Teams Competing at the AWC Spring Finals",
-  "body": "Join us this weekend as we crown the champions! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22986425/meet-the-teams-competing-at-the-awc-spring-finals"
- },
- {
-  "id": 249,
-  "title": "Children’s Week Has Arrived! May 2-May 9",
-  "body": "It’s time to give back to the children of Azeroth during Children’s Week! Take an orphan under your wing and show them the wonders of the world. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22965339/children-s-week-has-arrived-may-2-may-9"
- },
- {
-  "id": 252,
-  "title": "WoW Esports at BlizzCon 2019",
-  "body": "Arena and the Mythic Dungeon International will share the stage in Anaheim. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22945359/wow-esports-at-blizzcon-2019"
- },
- {
-  "id": 255,
-  "title": "Welcome to BlizzCon® 2019!",
-  "body": "BlizzCon® is returning to the Anaheim Convention Center on November 1 and 2, and tickets go on sale in two waves on May 4 and May 9. Here’s everything you need to know to get ready! ",
-  "href": "https://worldofwarcraft.comhttps://blizzcon.com/en-gb/news/22955736"
- },
- {
-  "id": 258,
-  "title": "Now Available! The Dreadwake Mount Returns to the Harbor",
-  "body": "Travel Azeroth in a ship like no other; the Dreadwake Mount is now available on the Blizzard Shop and in-game store. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933717/now-available-the-dreadwake-mount-returns-to-the-harbor"
- },
- {
-  "id": 261,
-  "title": "Crucible of Storms Raid Finder and Mythic Now Available",
-  "body": "Assemble your raid and face the fearsome servants of N’Zoth in two new epic boss encounters. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22938507/crucible-of-storms-raid-finder-and-mythic-now-available"
- },
- {
-  "id": 264,
-  "title": "Noblegarden Springs to Life This Week! April 22-29",
-  "body": "Noblegarden is in full bloom April 22 through April 29. Don your bunny ears and hunt for eggs, eat delectable chocolate, collect toys, pets, and more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/21636890/noblegarden-springs-to-life-this-week-april-22-29"
- },
- {
-  "id": 267,
-  "title": "Unlocking Flying in Battle for Azeroth: Part 1",
-  "body": "The skies of Kul Tiras and Zandalar can be decidedly unfriendly to the uninitiated. To help you on the first part of your journey, we’ve put together a brief guide. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933716/unlocking-flying-in-battle-for-azeroth-part-1"
- },
- {
-  "id": 270,
-  "title": "Keep Azeroth Close With the WoW Companion App",
-  "body": "Download the WoW Companion App and take a piece of Azeroth with you wherever you go. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933715/keep-azeroth-close-with-the-wow-companion-app"
- },
- {
-  "id": 273,
-  "title": "Watch the Rise of Azshara Content Preview VoD!",
-  "body": "Watch the VoD of the Rise of Azhara Content Preview with Senior Game Designer Jeremy Feasel. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22940238/watch-the-rise-of-azshara-content-preview-vod"
- },
- {
-  "id": 276,
-  "title": "Weekly Bonus Event: Timewalking Cataclysm",
-  "body": "This week’s Bonus Event is underway and we’re headed to Cataclysm zones to do some Timewalking. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/20391096/weekly-bonus-event-timewalking-cataclysm"
- },
- {
-  "id": 279,
-  "title": "Welcome to the Darkmoon Faire!",
-  "body": "The Darkmoon Faire returns with a brand-new roller coaster ride, new balloon-themed pets, and the latest haute couture fashion accessories: severed fish heads! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22938940/welcome-to-the-darkmoon-faire"
- },
- {
-  "id": 282,
-  "title": "Viewer’s Guide: Mythic Dungeon International Spring Season",
-  "body": "WoW esports is off to the races with the MDI! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22945352/viewer-s-guide-mythic-dungeon-international-spring-season"
- },
- {
-  "id": 285,
-  "title": "Warcraft: Orcs & Humans and Warcraft II Battle.net Edition Now Available on GOG.COM",
-  "body": "In anticipation of the upcoming 25th anniversary of Warcraft, we’ve partnered with GOG.COM to rerelease the classics that started it all—Warcraft: Orcs &#38 Humans and Warcraft II Battle.net Edition. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22940764/warcraft-orcs-humans-and-warcraft-ii-battle-net-edition-now-available-on-gog-com"
- },
- {
-  "id": 288,
-  "title": "Join Us for a Live Developer Q&A on March 21",
-  "body": "Join us live on Twitch Thursday, March 21, as we sit down with Game Director Ion Hazzikostas for our next live developer Q&A. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933275/join-us-for-a-live-developer-q-a-on-march-21"
- },
- {
-  "id": 289,
-  "title": "Support WoW Esports With Your Toy Purchase",
-  "body": "You can help support World of Warcraft esports by purchasing two new in-game toys! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22933274/support-wow-esports-with-your-toy-purchase"
- },
- {
-  "id": 292,
-  "title": "Join the Welcome Back Weekend March 21–24",
-  "body": "This weekend, we’re offering returning World of Warcraft players access to all their characters—regardless of level—so you can jump into Battle for Azeroth™ together. Call your friends, rally your comrades, and get everyone back in the fight! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22938498/join-the-welcome-back-weekend-march-21-24"
- },
- {
-  "id": 295,
-  "title": "The Mythic Dungeon International Time Trial Guide",
-  "body": "Time to warm up! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22936364/the-mythic-dungeon-international-time-trial-guide"
- },
- {
-  "id": 298,
-  "title": "Hotfixes: March 13, 2019",
-  "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft:Battle For Azeroth. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22824893/hotfixes-march-13-2019"
- },
- {
-  "id": 301,
-  "title": "New Allied Races and More Now Live!",
-  "body": "New Allied Races—Kul Tiran humans and Zandalari trolls–and more now live. Learn more. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22927091/new-allied-races-and-more-now-live"
- },
- {
-  "id": 304,
-  "title": "Tides of Vengeance Content Update Notes",
-  "body": "The official update notes for the March 13 content update to Tides of Vengeance are here. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22926354/tides-of-vengeance-content-update-notes"
- },
- {
-  "id": 307,
-  "title": "Save on World of Warcraft® and Select Game Services",
-  "body": "Celebrate the arrival of the Kul Tiran humans and Zandalari trolls with savings on the World of Warcraft® Complete Collection, Battle for Azeroth™, and select game services. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22927092/save-on-world-of-warcraft-and-select-game-services"
- },
- {
-  "id": 310,
-  "title": "Your Brawler’s Guild Invitation Is on Its Way",
-  "body": "The Brawler’s Guild will soon be reopening its doors for a new round of rumbling. Get ready to go toe-to-toe with some of their most skilled and scrappy fighters—and uncover a mystery lurking in the shadows. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22921316/your-brawler-s-guild-invitation-is-on-its-way"
- },
- {
-  "id": 313,
-  "title": "Professions Preview: Wield the Tools of the Trade",
-  "body": "Take your profession to the next level with new Tools of the Trade—coming in the next Battle for Azeroth content update on March 13. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22921317/professions-preview-wield-the-tools-of-the-trade"
- },
- {
-  "id": 316,
-  "title": "Inside the Art of WoW: Join Us for a Live Stream February 28",
-  "body": "Join us live on Twitch Thursday, February 28 at 20:00 CEST for a peek inside World of Warcraft art development and animation. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22882887/inside-the-art-of-wow-join-us-for-a-live-stream-february-28"
- },
- {
-  "id": 319,
-  "title": "Battle of Dazar’alor Raid Finder Wing 3 Available!",
-  "body": "Battle of Dazar’alor Raid Finder Wing 3: Victory or Death (for Horde players) and Might of the Alliance (for Alliance) are now available! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22906917/battle-of-dazar-alor-raid-finder-wing-3-available"
- },
- {
-  "id": 322,
-  "title": "Welcome to the Proving Grounds",
-  "body": "Run five level 14 Mythic Keystone Dungeons for Tournament Realm access. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22909228/welcome-to-the-proving-grounds"
- },
- {
-  "id": 325,
-  "title": "Meet the Gladiators: Smexxin",
-  "body": "Get to know your Arena World Championship competitors as we kick off Cup 3 today! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22911515/meet-the-gladiators-smexxin"
- },
- {
-  "id": 328,
-  "title": "New Allied Races Ahead! Kul Tiran Humans and Zandalari Trolls",
-  "body": "Two new playable Allied Races—the Kul Tiran humans and Zandalari trolls—join the Battle for Azeroth in the next content update. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22882888/new-allied-races-ahead-kul-tiran-humans-and-zandalari-trolls"
- },
- {
-  "id": 331,
-  "title": "Battle of Dazar’alor Raid Finder Wing 2 Available!",
-  "body": "Battle of Dazar’alor Raid Finder Wing 2: Death’s Bargain (for Horde players) and Empire’s Fall (for Alliance) are now available! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22882885/battle-of-dazar-alor-raid-finder-wing-2-available"
- },
- {
-  "id": 334,
-  "title": "A Many Splendored Thing: Love is in the Air Has Begun!",
-  "body": "Even in times of war, love finds a way to temper hostilities and turn the thoughts of Azeroth’s inhabitants toward gentler pursuits. Then again—it could just be that enticing aromas drifting through the city air. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22882886/a-many-splendored-thing-love-is-in-the-air-has-begun"
- },
- {
-  "id": 337,
-  "title": "Arena World Championship Spring Season: A Viewer’s Guide",
-  "body": "Tune in from February 8 for the world’s best PvP. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22891044/arena-world-championship-spring-season-a-viewer-s-guide"
- },
- {
-  "id": 340,
-  "title": "New Mount: Hogrus, Swine of Good Fortune!",
-  "body": "Good luck awaits in the Lunar New Year with a brand-new mount: Hogrus, Swine of Good Fortune—now available in the Blizzard Shop and World of Warcraft in-game shop. ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22884136/new-mount-hogrus-swine-of-good-fortune"
- },
- {
-  "id": 343,
-  "title": "Battle of Dazar’alor Mythic and Raid Finder Wing 1 Available!",
-  "body": "Battle of Dazar’alor Mythic difficulty and Raid Finder Wing 1: Defense of Dazar’alor (for Horde players) and Siege of Dazar’alor (for Alliance) are now available! ",
-  "href": "https://worldofwarcraft.com/en-gb/news/22864565/battle-of-dazar-alor-mythic-and-raid-finder-wing-1-available"
- }
-]
+{
+    "news": [
+        {
+            "id": 48,
+            "title": "Weekly Bonus Event: Warlords of Draenor Timewalking",
+            "body": "Travel back in time to the Warlords of Draenor dungeons in this week’s Bonus Event. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22994613/weekly-bonus-event-warlords-of-draenor-timewalking"
+           },
+           {
+            "id": 51,
+            "title": "WoW® Classic City Tour: Ironforge",
+            "body": "Finding trainers and supplies can take a little extra time to adjust to in WoW® Classic, but we’ve got a handy guide to help you get around the dwarf capital city of Ironforge. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23149294/wow-classic-city-tour-ironforge"
+           },
+           {
+            "id": 54,
+            "title": "The Next Battle for Azeroth Content Update is Now Live!",
+            "body": "The next World of Warcraft®: Battle for Azeroth content update is now live. Learn what’s ahead. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23156365/the-next-battle-for-azeroth-content-update-is-now-live"
+           },
+           {
+            "id": 57,
+            "title": "Hotfixes: September 20, 2019",
+            "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft: Battle For Azeroth. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23036677/hotfixes-september-20-2019"
+           },
+           {
+            "id": 60,
+            "title": "WoW® Classic City Tour: Orgrimmar",
+            "body": "Finding trainers and supplies can take a little extra time to adjust to in WoW® Classic, but we’ve got a handy guide to help you get around the Horde capital city of Orgrimmar.\n",
+            "href": "https://worldofwarcraft.com/en-gb/news/23156369/wow-classic-city-tour-orgrimmar"
+           },
+           {
+            "id": 63,
+            "title": "Brewfest Kegs Are Tapped and Festivities are in Full Swing! September 20–October 6",
+            "body": "Get ready to crack open a cold one with friends new and old during our revamped Brewfest! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23151441/brewfest-kegs-are-tapped-and-festivities-are-in-full-swing-september-20-october-6"
+           },
+           {
+            "id": 66,
+            "title": "AWC Summer Finals: Last Chance for BlizzCon 2019",
+            "body": "The four very best teams from North America and Europe battle for the last two remaining spots for the AWC Global Finals at BlizzCon. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23156367/awc-summer-finals-last-chance-for-blizzcon-2019"
+           },
+           {
+            "id": 69,
+            "title": "WoW® Classic: Getting around Azeroth",
+            "body": "There are various modes of mass transit available to those looking to get around Azeroth. Learn more about each of these and where they are in our latest look into WoW® Classic. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23156366/wow-classic-getting-around-azeroth"
+           },
+           {
+            "id": 72,
+            "title": "Stormsong Valley’s Newest Hive is the Bee’s Knees",
+            "body": "Discover what beekeepers are abuzz about in Stormsong Valley. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23151439/stormsong-valley-s-newest-hive-is-the-bee-s-knees"
+           },
+           {
+            "id": 75,
+            "title": "Jump Aboard the Pirate’s Day Celebration– September 19!",
+            "body": "Avast ye landlubbers! It’s time to hoist sail and make way to Booty Bay for Pirate’s Day! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22483128/jump-aboard-the-pirate-s-day-celebration-september-19"
+           },
+           {
+            "id": 78,
+            "title": "PvP Brawls Schedule 2019",
+            "body": "Experience some of your favorite player-vs-player Battlegrounds with a twist during PvP Brawls! Read on to learn more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/20564524/pvp-brawls-schedule-2019"
+           },
+           {
+            "id": 81,
+            "title": "Own a Piece of World of Warcraft History and Help Support Pencils of Promise *Sold Out!",
+            "body": "Commemorate 15 years of epic adventures in Azeroth by owning a piece of World of Warcraft history—and feel good doing it. We’ve preserved a number of retired HP server blades that once hosted many World of Warcraft realms, and you can purchase one Tuesday, September 10 at 2:00 p.m. PDT and Thursday, September 12 at 7:00 a.m. PDT on the Blizzard Gear Store Europe. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23140711/own-a-piece-of-world-of-warcraft-history-and-help-support-pencils-of-promise-sold-out"
+           },
+           {
+            "id": 84,
+            "title": "8.2.5 Content Update Notes",
+            "body": "The official update notes for the new content update are here. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23127427/8-2-5-content-update-notes"
+           },
+           {
+            "id": 87,
+            "title": "WoW® Classic City Tour: Stormwind",
+            "body": "Navigating the capital cities in of Azeroth is a different affair in WoW Classic. Finding the trainers and supplies you need can take a little extra time to adjust to, so we’ve put together a handy guide to point you in the right direction. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23149291/wow-classic-city-tour-stormwind"
+           },
+           {
+            "id": 90,
+            "title": "Party Sync Preview",
+            "body": "The new Party Sync feature makes it easier than ever for friends to party up and quest together. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23151436/party-sync-preview"
+           },
+           {
+            "id": 93,
+            "title": "These Million Gold Looks for Goblins and Worgen are Something to Howl About",
+            "body": "Get ready to shapeshift your look with new worgen and goblin models and animations—coming in the 8.2.5 content update. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23127428/these-million-gold-looks-for-goblins-and-worgen-are-something-to-howl-about"
+           },
+           {
+            "id": 96,
+            "title": "Recruit A Friend Returns Soon!",
+            "body": "Bring your friends to Azeroth and earn special rewards. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23127426/recruit-a-friend-returns-soon"
+           },
+           {
+            "id": 99,
+            "title": "Weekly Bonus Event: Mists of Pandaria Timewalking",
+            "body": "Travel back in time to the Mists of Pandaria dungeons in this week’s Bonus Event. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/20564529/weekly-bonus-event-mists-of-pandaria-timewalking"
+           },
+           {
+            "id": 102,
+            "title": "Trial of Style August 31– September 4: The Stage Is Yours",
+            "body": "Styles from Kul Tiras and Zandalar are all the rage, but is your transmog the flavor of the moment? Or is it a timeless couture classic? You’ll be able to find out during the Trial of Style, taking place August 31 –September 4! Prepare to strut your stuff in a head-to-head fashion face-off and see who can put it all together—for the win! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22327256/trial-of-style-august-31-september-4-the-stage-is-yours"
+           },
+           {
+            "id": 105,
+            "title": "World of Warcraft Classic Is Now Live!",
+            "body": "The floodgates are now open, and WoW Classic is live! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23099309/world-of-warcraft-classic-is-now-live"
+           },
+           {
+            "id": 108,
+            "title": "Kickoff to WoW® Classic with HyperX—Watch the VoD",
+            "body": "Kick off the launch of WoW Classic with HyperX in a live stream featuring interviews, discussions, and more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23108404/kickoff-to-wow-classic-with-hyperx-watch-the-vod"
+           },
+           {
+            "id": 111,
+            "title": "WoW Classic Name Reservations Now Open! *Update 30/8",
+            "body": "Take your first step toward preparing for WoW Classic by reserving your name before the game goes live in Europe on August 27 at 00:01 CEST! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23086691/wow-classic-name-reservations-now-open-update-30-8"
+           },
+           {
+            "id": 114,
+            "title": "World of Warcraft Classic Community Resources",
+            "body": "World of Warcraft Classic provides players the opportunity to delve into a faithful recreation of the original WoW experience, but no one has to go it alone. We’ve gathered together some of the best resources from around the community to help. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23090143/world-of-warcraft-classic-community-resources"
+           },
+           {
+            "id": 117,
+            "title": "Watch Now! WoW Classic with Creators",
+            "body": "Take a stroll down memory lane with some of the original World of Warcraft designers in our new video. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23090141/watch-now-wow-classic-with-creators"
+           },
+           {
+            "id": 120,
+            "title": "Weekly Bonus Event: Battle for Azeroth Dungeons",
+            "body": "This week’s Bonus Event is underway, and we’re setting our sights on Battle for Azeroth Dungeons. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22483125/weekly-bonus-event-battle-for-azeroth-dungeons"
+           },
+           {
+            "id": 123,
+            "title": "World of Warcraft Classic FAQ: What You Need to Know",
+            "body": "World of Warcraft Classic launches August 27. To make sure you’re prepared, we’ve pulled together some information to help you get started on your journey through Azeroth. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23090136/world-of-warcraft-classic-faq-what-you-need-to-know"
+           },
+           {
+            "id": 126,
+            "title": "Micro-Holidays: 2019 Calendar",
+            "body": "Micro-holidays provide a variety of in-game experiences simply for the fun of taking part in them. Read on to learn about more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/20407403/micro-holidays-2019-calendar"
+           },
+           {
+            "id": 129,
+            "title": "The Eternal Palace Raid: Raid Finder Wing 3 Now Available!",
+            "body": "Face Queen Azshara’s most devoted champions in an epic new raid—The Eternal Palace. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021200/the-eternal-palace-raid-raid-finder-wing-3-now-available"
+           },
+           {
+            "id": 132,
+            "title": "Viewer’s Guide: Mythic Dungeon International Summer Season",
+            "body": "Dungeon Racing is back with the Summer Season of the MDI! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23090135/viewer-s-guide-mythic-dungeon-international-summer-season"
+           },
+           {
+            "id": 135,
+            "title": "WoW Classic Primer for New Players",
+            "body": "If you’ve never played the original World of Warcraft (or you just want a refresher on the WoW Classic experience, we’ve got you covered with this handy guide on how to get in and get going on your epic adventure. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23090134/wow-classic-primer-for-new-players"
+           },
+           {
+            "id": 138,
+            "title": "Commemorate 15 Years of World of Warcraft With New Alabaster Mounts!",
+            "body": "Take to the skies of Azeroth in grand style with a pair of majestic alabaster mounts—now available on the Blizzard Shop. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23086690/commemorate-15-years-of-world-of-warcraft-with-new-alabaster-mounts"
+           },
+           {
+            "id": 141,
+            "title": "Wrath of the Lich King Timewalking Returns — July 16-23",
+            "body": "This week’s Bonus Event is underway and we’re headed to Northrend to do some Timewalking. Are you ready to step into Ulduar? Read on to learn more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/21510319/wrath-of-the-lich-king-timewalking-returns-july-16-23"
+           },
+           {
+            "id": 144,
+            "title": "The Eternal Palace Race to World First Begins This Week!",
+            "body": "The race to see who can be the first to defeat Azshara in her Eternal Palace begins this week and we’ve got the scoop on where you can watch all the action live! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23055938/the-eternal-palace-race-to-world-first-begins-this-week"
+           },
+           {
+            "id": 147,
+            "title": "Battle for Azeroth Mythic Keystone Dungeon and PvP Season 3 Has Begun!",
+            "body": "Battle for Azeroth Season 3 opens up new challenges with the opening of Mythic Operation: Mechagon, a new affix in Mythic Keystone Dungeons, and more PvP action. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23055935/battle-for-azeroth-mythic-keystone-dungeon-and-pvp-season-3-has-begun"
+           },
+           {
+            "id": 150,
+            "title": "Rise of Azshara Content Update Notes: Season 3",
+            "body": "The official update notes for the July 10, 2019 content update to Rise of Azshara are here. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23050291/rise-of-azshara-content-update-notes-season-3"
+           },
+           {
+            "id": 153,
+            "title": "The Mythic Dungeon International Summer Season Starts Soon!",
+            "body": "Test your dungeon-running skills for your chance to compete. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23051820/the-mythic-dungeon-international-summer-season-starts-soon"
+           },
+           {
+            "id": 156,
+            "title": "Get Murgle the Red Murloc Plush and Mug July 9!",
+            "body": "Celebrate the Rise of Azshara content update by snuggling up with Murgle the red baby murloc plush and sipping from a matching mug—both available on July 9 on the Blizzard Gear Store worldwide or at the Japan Expo in Paris July 4-7! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23045374/get-murgle-the-red-murloc-plush-and-mug-july-9"
+           },
+           {
+            "id": 159,
+            "title": "Purchase a 6-Month Subscription and Get a New Mount!",
+            "body": "Add some magic to your mount collection with the brand-new Sylverian Dreamer, available now for purchase in-game and from the Blizzard Shop. For a limited time, you can also get this dream-born dragon with your purchase of a 6-Month World of Warcraft subscription. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23035753/purchase-a-6-month-subscription-and-get-a-new-mount"
+           },
+           {
+            "id": 162,
+            "title": "Weekly Bonus Event: Battlegrounds",
+            "body": "This week’s Bonus Event is underway and we’re headed to the grounds of battle. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/20324475/weekly-bonus-event-battlegrounds"
+           },
+           {
+            "id": 165,
+            "title": "Prepare to Bow to the Queen of Tides in Rise of Azshara - Now Live!",
+            "body": "Rise of Azshara is now live Watch our latest Survival Guide and dive into World of Warcraft’s next major content update. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23014432/prepare-to-bow-to-the-queen-of-tides-in-rise-of-azshara-now-live"
+           },
+           {
+            "id": 168,
+            "title": "Rise of Azshara Preview: Heart of Azeroth Updates",
+            "body": "In Rise of Azshara, the Heart of Azeroth will get a boost with the help of MOTHER, and players can seek out new ways to customize their powers through Essences. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22956187/rise-of-azshara-preview-heart-of-azeroth-updates"
+           },
+           {
+            "id": 171,
+            "title": "Save on World of Warcraft® and Digital Deluxe Items",
+            "body": "Celebrate the arrival of the latest content update, Rise of Azshara, with savings on the World of Warcraft® Complete Collection, Battle for Azeroth™, and Digital Deluxe items from multiple expansions. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23035751/save-on-world-of-warcraft-and-digital-deluxe-items"
+           },
+           {
+            "id": 174,
+            "title": "Take to the Skies: The Battle for Azeroth Pathfinder Guide",
+            "body": "Soar over land and sea on your new Wonderwing 2.0 when you complete Battle for Azeroth Pathfinder! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23035750/take-to-the-skies-the-battle-for-azeroth-pathfinder-guide"
+           },
+           {
+            "id": 177,
+            "title": "New World of Warcraft: Battle for Azeroth Comic – “Mechagon”",
+            "body": "Among the gnomes, there are few legends more powerful than that of Mechagon—a land of untold mechanical marvels. Daring to prove that this fabled place is more than a myth, explorer Kervo must make a daring gambit to find it . . . and maybe even uncover the secrets of mortality before his own time runs out. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021205/new-world-of-warcraft-battle-for-azeroth-comic-mechagon"
+           },
+           {
+            "id": 180,
+            "title": "The Flames of the Midsummer Fire Festival Burn Bright! June 21–July 5",
+            "body": "Don your fire resist gear and celebrate the Midsummer Fire Festival! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021203/the-flames-of-the-midsummer-fire-festival-burn-bright-june-21-july-5"
+           },
+           {
+            "id": 183,
+            "title": "Preview: Nazjatar Visitor’s Guide",
+            "body": "After a high-seas ambush, the Alliance and Horde find themselves facing a familiar and deadly foe as Nazjatar, capital city of the naga, emerges from the depths. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23034748/preview-nazjatar-visitor-s-guide"
+           },
+           {
+            "id": 186,
+            "title": "Rise of Azshara Content Update Notes",
+            "body": "The official update notes for content update to Rise of Azshara are here. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23014436/rise-of-azshara-content-update-notes"
+           },
+           {
+            "id": 189,
+            "title": "Preview: Mechagon Island Visitor’s Guide",
+            "body": "Mechagon Island, once believed to be a myth, has recently been discovered. The mechanical metropolis at the island’s heart runs off cutting-edge technology unlike anything seen before—but at what cost? ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021204/preview-mechagon-island-visitor-s-guide"
+           },
+           {
+            "id": 192,
+            "title": "Dive Deep Into Rise of Azshara - Arriving June 26!",
+            "body": "Rise of Azshara is nearly here! Learn more about the latest content update and prepare for the Queen of Tides’ grand reemergence June 26. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021202/dive-deep-into-rise-of-azshara-arriving-june-26"
+           },
+           {
+            "id": 195,
+            "title": "Saddle Up for Epic Adventures with Mount Equipment",
+            "body": "It’s not the destination, it’s the journey! There’s something magical about exploring new territory astride your most trusted steed, so we’re introducing Mount Equipment—a new system that empowers you to customize your favorite mounts to make them even more fun and convenient. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23034891/saddle-up-for-epic-adventures-with-mount-equipment"
+           },
+           {
+            "id": 198,
+            "title": "World of Warcraft 15-Year Anniversary Collector’s Edition Giveaway",
+            "body": "Don’t miss your chance to grab one of the last remaining World of Warcraft 15-Year Anniversary Collector’s Editions! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23018239/world-of-warcraft-15-year-anniversary-collector-s-edition-giveaway"
+           },
+           {
+            "id": 201,
+            "title": "Preview—New Pet Battle Dungeon: Stratholme",
+            "body": "Ready your best battle pets for a new challenge. We’re introducing a new pet battle dungeon in Rise of Azshara—Stratholme! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23019229/preview-new-pet-battle-dungeon-stratholme"
+           },
+           {
+            "id": 204,
+            "title": "Postcard from MDI Spring Finals: Championship Sunday",
+            "body": "Close calls and crumbling curses on the final day of the tournament. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23022453/postcard-from-mdi-spring-finals-championship-sunday"
+           },
+           {
+            "id": 207,
+            "title": "Hotfixes: June 10, 2019",
+            "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft: Battle For Azeroth. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933417/hotfixes-june-10-2019"
+           },
+           {
+            "id": 210,
+            "title": "AWC Summer Season: A Viewer’s Guide",
+            "body": "Tune in for six weeks of the world’s best PvP players fighting for glory starting June 12. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23022452/awc-summer-season-a-viewer-s-guide"
+           },
+           {
+            "id": 213,
+            "title": "Postcard from MDI Spring Finals: The Doctor Is In",
+            "body": "Despite falling to the lower bracket, DrJay of Abrakeydabra is proud of his team. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23022451/postcard-from-mdi-spring-finals-the-doctor-is-in"
+           },
+           {
+            "id": 216,
+            "title": "Postcard from the MDI Spring Finals: East meets West",
+            "body": "The teams have landed in Sydney and are preparing for the first day of competition. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23022450/postcard-from-the-mdi-spring-finals-east-meets-west"
+           },
+           {
+            "id": 219,
+            "title": "Many New Treasures Await in Rise of Azshara",
+            "body": "Rise of Azshara introduces a treasure trove of new mounts, pets, toys, and gear to earn and collect. We’ve rounded up a selection of what’s waiting to be discovered. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23021196/many-new-treasures-await-in-rise-of-azshara"
+           },
+           {
+            "id": 222,
+            "title": "BlizzCon® 2019 Commemorative Collectible – Presale Extended to June 19!",
+            "body": "We’ve extended the deadline to pre-purchase an Orc Grunt or Human Footman statue to June 19. Learn more about this limited run, and check out a new video that gives you a closer look at the statues. ",
+            "href": "https://worldofwarcraft.comhttps://blizzcon.com/en-gb/news/22965340"
+           },
+           {
+            "id": 225,
+            "title": "MDI Spring Finals Head Down Under",
+            "body": "Sydney will host the best dungeon-running teams in the world this weekend. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/23016004/mdi-spring-finals-head-down-under"
+           },
+           {
+            "id": 228,
+            "title": "Rise of Azshara Preview: Navigate the Perils of Nazjatar in New Benthic Gear",
+            "body": "In Rise of Azshara, we’re introducing a new type of gear that can be collected in Nazjatar—and can help you stand against the rising threat of Queen Azshara. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22994614/rise-of-azshara-preview-navigate-the-perils-of-nazjatar-in-new-benthic-gear"
+           },
+           {
+            "id": 231,
+            "title": "Rise Up and Stand Tall with New Tauren and Gnome Heritage Armor",
+            "body": "Rise up and stand tall with two new Heritage Armor sets—one for gnomes and one for tauren—coming in the Rise of Azshara content update. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22994612/rise-up-and-stand-tall-with-new-tauren-and-gnome-heritage-armor"
+           },
+           {
+            "id": 234,
+            "title": "Watch the New Rise of Azshara Cinematic: “Safe Haven”",
+            "body": "Where do you find safe haven in a world torn apart by war and strife? Varok Saurfang may just have the answer. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22937756/watch-the-new-rise-of-azshara-cinematic-safe-haven"
+           },
+           {
+            "id": 237,
+            "title": "Mark Your Calendars: WoW Classic Launch and Testing Schedule",
+            "body": "World of Warcraft Classic goes live worldwide August 27! Learn more about the launch and the upcoming test schedule. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22990080/mark-your-calendars-wow-classic-launch-and-testing-schedule"
+           },
+           {
+            "id": 240,
+            "title": "Get the World of Warcraft 15th Anniversary Collector’s Edition",
+            "body": "Commemorate 15 epic years of World of Warcraft with a special limited-edition collector’s set. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22990077/get-the-world-of-warcraft-15th-anniversary-collector-s-edition"
+           },
+           {
+            "id": 243,
+            "title": "Recruit-A-Friend Is Going on Hiatus",
+            "body": "The current Recruit-A-Friend program will be ending on June 11, 2019 while we work on building a new and improved program. Read on to learn more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22938871/recruit-a-friend-is-going-on-hiatus"
+           },
+           {
+            "id": 246,
+            "title": "Meet the Teams Competing at the AWC Spring Finals",
+            "body": "Join us this weekend as we crown the champions! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22986425/meet-the-teams-competing-at-the-awc-spring-finals"
+           },
+           {
+            "id": 249,
+            "title": "Children’s Week Has Arrived! May 2-May 9",
+            "body": "It’s time to give back to the children of Azeroth during Children’s Week! Take an orphan under your wing and show them the wonders of the world. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22965339/children-s-week-has-arrived-may-2-may-9"
+           },
+           {
+            "id": 252,
+            "title": "WoW Esports at BlizzCon 2019",
+            "body": "Arena and the Mythic Dungeon International will share the stage in Anaheim. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22945359/wow-esports-at-blizzcon-2019"
+           },
+           {
+            "id": 255,
+            "title": "Welcome to BlizzCon® 2019!",
+            "body": "BlizzCon® is returning to the Anaheim Convention Center on November 1 and 2, and tickets go on sale in two waves on May 4 and May 9. Here’s everything you need to know to get ready! ",
+            "href": "https://worldofwarcraft.comhttps://blizzcon.com/en-gb/news/22955736"
+           },
+           {
+            "id": 258,
+            "title": "Now Available! The Dreadwake Mount Returns to the Harbor",
+            "body": "Travel Azeroth in a ship like no other; the Dreadwake Mount is now available on the Blizzard Shop and in-game store. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933717/now-available-the-dreadwake-mount-returns-to-the-harbor"
+           },
+           {
+            "id": 261,
+            "title": "Crucible of Storms Raid Finder and Mythic Now Available",
+            "body": "Assemble your raid and face the fearsome servants of N’Zoth in two new epic boss encounters. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22938507/crucible-of-storms-raid-finder-and-mythic-now-available"
+           },
+           {
+            "id": 264,
+            "title": "Noblegarden Springs to Life This Week! April 22-29",
+            "body": "Noblegarden is in full bloom April 22 through April 29. Don your bunny ears and hunt for eggs, eat delectable chocolate, collect toys, pets, and more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/21636890/noblegarden-springs-to-life-this-week-april-22-29"
+           },
+           {
+            "id": 267,
+            "title": "Unlocking Flying in Battle for Azeroth: Part 1",
+            "body": "The skies of Kul Tiras and Zandalar can be decidedly unfriendly to the uninitiated. To help you on the first part of your journey, we’ve put together a brief guide. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933716/unlocking-flying-in-battle-for-azeroth-part-1"
+           },
+           {
+            "id": 270,
+            "title": "Keep Azeroth Close With the WoW Companion App",
+            "body": "Download the WoW Companion App and take a piece of Azeroth with you wherever you go. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933715/keep-azeroth-close-with-the-wow-companion-app"
+           },
+           {
+            "id": 273,
+            "title": "Watch the Rise of Azshara Content Preview VoD!",
+            "body": "Watch the VoD of the Rise of Azhara Content Preview with Senior Game Designer Jeremy Feasel. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22940238/watch-the-rise-of-azshara-content-preview-vod"
+           },
+           {
+            "id": 276,
+            "title": "Weekly Bonus Event: Timewalking Cataclysm",
+            "body": "This week’s Bonus Event is underway and we’re headed to Cataclysm zones to do some Timewalking. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/20391096/weekly-bonus-event-timewalking-cataclysm"
+           },
+           {
+            "id": 279,
+            "title": "Welcome to the Darkmoon Faire!",
+            "body": "The Darkmoon Faire returns with a brand-new roller coaster ride, new balloon-themed pets, and the latest haute couture fashion accessories: severed fish heads! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22938940/welcome-to-the-darkmoon-faire"
+           },
+           {
+            "id": 282,
+            "title": "Viewer’s Guide: Mythic Dungeon International Spring Season",
+            "body": "WoW esports is off to the races with the MDI! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22945352/viewer-s-guide-mythic-dungeon-international-spring-season"
+           },
+           {
+            "id": 285,
+            "title": "Warcraft: Orcs & Humans and Warcraft II Battle.net Edition Now Available on GOG.COM",
+            "body": "In anticipation of the upcoming 25th anniversary of Warcraft, we’ve partnered with GOG.COM to rerelease the classics that started it all—Warcraft: Orcs &#38 Humans and Warcraft II Battle.net Edition. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22940764/warcraft-orcs-humans-and-warcraft-ii-battle-net-edition-now-available-on-gog-com"
+           },
+           {
+            "id": 288,
+            "title": "Join Us for a Live Developer Q&A on March 21",
+            "body": "Join us live on Twitch Thursday, March 21, as we sit down with Game Director Ion Hazzikostas for our next live developer Q&A. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933275/join-us-for-a-live-developer-q-a-on-march-21"
+           },
+           {
+            "id": 289,
+            "title": "Support WoW Esports With Your Toy Purchase",
+            "body": "You can help support World of Warcraft esports by purchasing two new in-game toys! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22933274/support-wow-esports-with-your-toy-purchase"
+           },
+           {
+            "id": 292,
+            "title": "Join the Welcome Back Weekend March 21–24",
+            "body": "This weekend, we’re offering returning World of Warcraft players access to all their characters—regardless of level—so you can jump into Battle for Azeroth™ together. Call your friends, rally your comrades, and get everyone back in the fight! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22938498/join-the-welcome-back-weekend-march-21-24"
+           },
+           {
+            "id": 295,
+            "title": "The Mythic Dungeon International Time Trial Guide",
+            "body": "Time to warm up! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22936364/the-mythic-dungeon-international-time-trial-guide"
+           },
+           {
+            "id": 298,
+            "title": "Hotfixes: March 13, 2019",
+            "body": "​Here you'll find a list of hotfixes that address various issues related to World of Warcraft:Battle For Azeroth. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22824893/hotfixes-march-13-2019"
+           },
+           {
+            "id": 301,
+            "title": "New Allied Races and More Now Live!",
+            "body": "New Allied Races—Kul Tiran humans and Zandalari trolls–and more now live. Learn more. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22927091/new-allied-races-and-more-now-live"
+           },
+           {
+            "id": 304,
+            "title": "Tides of Vengeance Content Update Notes",
+            "body": "The official update notes for the March 13 content update to Tides of Vengeance are here. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22926354/tides-of-vengeance-content-update-notes"
+           },
+           {
+            "id": 307,
+            "title": "Save on World of Warcraft® and Select Game Services",
+            "body": "Celebrate the arrival of the Kul Tiran humans and Zandalari trolls with savings on the World of Warcraft® Complete Collection, Battle for Azeroth™, and select game services. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22927092/save-on-world-of-warcraft-and-select-game-services"
+           },
+           {
+            "id": 310,
+            "title": "Your Brawler’s Guild Invitation Is on Its Way",
+            "body": "The Brawler’s Guild will soon be reopening its doors for a new round of rumbling. Get ready to go toe-to-toe with some of their most skilled and scrappy fighters—and uncover a mystery lurking in the shadows. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22921316/your-brawler-s-guild-invitation-is-on-its-way"
+           },
+           {
+            "id": 313,
+            "title": "Professions Preview: Wield the Tools of the Trade",
+            "body": "Take your profession to the next level with new Tools of the Trade—coming in the next Battle for Azeroth content update on March 13. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22921317/professions-preview-wield-the-tools-of-the-trade"
+           },
+           {
+            "id": 316,
+            "title": "Inside the Art of WoW: Join Us for a Live Stream February 28",
+            "body": "Join us live on Twitch Thursday, February 28 at 20:00 CEST for a peek inside World of Warcraft art development and animation. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22882887/inside-the-art-of-wow-join-us-for-a-live-stream-february-28"
+           },
+           {
+            "id": 319,
+            "title": "Battle of Dazar’alor Raid Finder Wing 3 Available!",
+            "body": "Battle of Dazar’alor Raid Finder Wing 3: Victory or Death (for Horde players) and Might of the Alliance (for Alliance) are now available! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22906917/battle-of-dazar-alor-raid-finder-wing-3-available"
+           },
+           {
+            "id": 322,
+            "title": "Welcome to the Proving Grounds",
+            "body": "Run five level 14 Mythic Keystone Dungeons for Tournament Realm access. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22909228/welcome-to-the-proving-grounds"
+           },
+           {
+            "id": 325,
+            "title": "Meet the Gladiators: Smexxin",
+            "body": "Get to know your Arena World Championship competitors as we kick off Cup 3 today! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22911515/meet-the-gladiators-smexxin"
+           },
+           {
+            "id": 328,
+            "title": "New Allied Races Ahead! Kul Tiran Humans and Zandalari Trolls",
+            "body": "Two new playable Allied Races—the Kul Tiran humans and Zandalari trolls—join the Battle for Azeroth in the next content update. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22882888/new-allied-races-ahead-kul-tiran-humans-and-zandalari-trolls"
+           },
+           {
+            "id": 331,
+            "title": "Battle of Dazar’alor Raid Finder Wing 2 Available!",
+            "body": "Battle of Dazar’alor Raid Finder Wing 2: Death’s Bargain (for Horde players) and Empire’s Fall (for Alliance) are now available! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22882885/battle-of-dazar-alor-raid-finder-wing-2-available"
+           },
+           {
+            "id": 334,
+            "title": "A Many Splendored Thing: Love is in the Air Has Begun!",
+            "body": "Even in times of war, love finds a way to temper hostilities and turn the thoughts of Azeroth’s inhabitants toward gentler pursuits. Then again—it could just be that enticing aromas drifting through the city air. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22882886/a-many-splendored-thing-love-is-in-the-air-has-begun"
+           },
+           {
+            "id": 337,
+            "title": "Arena World Championship Spring Season: A Viewer’s Guide",
+            "body": "Tune in from February 8 for the world’s best PvP. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22891044/arena-world-championship-spring-season-a-viewer-s-guide"
+           },
+           {
+            "id": 340,
+            "title": "New Mount: Hogrus, Swine of Good Fortune!",
+            "body": "Good luck awaits in the Lunar New Year with a brand-new mount: Hogrus, Swine of Good Fortune—now available in the Blizzard Shop and World of Warcraft in-game shop. ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22884136/new-mount-hogrus-swine-of-good-fortune"
+           },
+           {
+            "id": 343,
+            "title": "Battle of Dazar’alor Mythic and Raid Finder Wing 1 Available!",
+            "body": "Battle of Dazar’alor Mythic difficulty and Raid Finder Wing 1: Defense of Dazar’alor (for Horde players) and Siege of Dazar’alor (for Alliance) are now available! ",
+            "href": "https://worldofwarcraft.com/en-gb/news/22864565/battle-of-dazar-alor-mythic-and-raid-finder-wing-1-available"
+           }
+    ]
+}
